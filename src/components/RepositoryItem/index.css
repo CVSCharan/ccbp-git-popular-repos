@@ -8,6 +8,7 @@
     height: 300px;
     margin-bottom: 24px;
     padding: 24px;
+    margin-right: 50px;
   }
   
   @media (min-width: 576px) {
@@ -32,6 +33,7 @@
   .repository-image {
     width: 92px;
     height: 92px;
+    border-radius: 10px;
   }
   
   .repository-name {
